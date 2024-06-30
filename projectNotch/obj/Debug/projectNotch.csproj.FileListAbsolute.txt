@@ -1,0 +1,13 @@
+C:\Users\fredd\Documents\GitHub\projectNotch\projectNotch\bin\Debug\projectNotch.exe.config
+C:\Users\fredd\Documents\GitHub\projectNotch\projectNotch\bin\Debug\projectNotch.exe
+C:\Users\fredd\Documents\GitHub\projectNotch\projectNotch\bin\Debug\projectNotch.pdb
+C:\Users\fredd\Documents\GitHub\projectNotch\projectNotch\obj\Debug\projectNotch.csproj.AssemblyReference.cache
+C:\Users\fredd\Documents\GitHub\projectNotch\projectNotch\obj\Debug\projectNotch.Properties.Resources.resources
+C:\Users\fredd\Documents\GitHub\projectNotch\projectNotch\obj\Debug\projectNotch.csproj.GenerateResource.cache
+C:\Users\fredd\Documents\GitHub\projectNotch\projectNotch\obj\Debug\projectNotch.csproj.CoreCompileInputs.cache
+C:\Users\fredd\Documents\GitHub\projectNotch\projectNotch\obj\Debug\projectNotch.exe
+C:\Users\fredd\Documents\GitHub\projectNotch\projectNotch\obj\Debug\projectNotch.pdb
+C:\Users\fredd\Documents\GitHub\projectNotch\projectNotch\obj\Debug\projectNotch.Notch.resources
+C:\Users\fredd\Documents\GitHub\projectNotch\projectNotch\bin\Debug\WindowsInput.dll
+C:\Users\fredd\Documents\GitHub\projectNotch\projectNotch\bin\Debug\WindowsInput.xml
+C:\Users\fredd\Documents\GitHub\projectNotch\projectNotch\obj\Debug\projectN.7DF54148.Up2Date
