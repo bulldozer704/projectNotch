@@ -1,4 +1,6 @@
-﻿namespace projectNotch
+﻿using System.Windows.Forms;
+
+namespace projectNotch
 {
     partial class Notch
     {
@@ -26,6 +28,8 @@
         /// Required method for Designer support - do not modify
         /// the contents of this method with the code editor.
         /// </summary>
+        /// 
+
         private void InitializeComponent()
         {
             this.timeItem1 = new projectNotch.notchItems.timeItem();
@@ -65,15 +69,15 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MinimumSize = new System.Drawing.Size(1, 1);
             this.Name = "Notch";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "Notch";
-            this.TopMost = true;
             this.TransparencyKey = System.Drawing.Color.Magenta;
             this.Load += new System.EventHandler(this.Notch_Load);
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Notch_MouseDown);
             this.ResumeLayout(false);
+
         }
 
         #endregion
